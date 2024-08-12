@@ -31,8 +31,10 @@ Antes de começar, verifique se você tem as seguintes ferramentas instaladas:
 
 2. **Instalando Dependências**
 
-    ```npm install
+    ```
+    npm install
 
 3. **Executando o Projeto**
 
-    ```npm run dev
+    ```
+    npm run dev
